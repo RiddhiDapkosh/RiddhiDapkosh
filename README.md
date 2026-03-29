@@ -34,7 +34,7 @@ Exploring Technology | Building AI & ML Projects | Computer Engineering Student
 ---
 
 ## 🎯 Goals
-- Become a skilled AI / Data Science Engineer  
+- Become a skilled AI ML Engineer  
 - Build innovative and practical projects  
 - Improve problem-solving and technical skills  
 - Contribute to open-source projects  
@@ -52,4 +52,4 @@ I enjoy exploring new technologies and turning ideas into real-world solutions.
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiddhiDapkosh&show_icons=true&theme=radical)
