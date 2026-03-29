@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi there 👋, I'm Riddhi Dapkosh  
+Exploring Technology | Building AI & ML Projects | Computer Engineering Student  
 
-<!--
-**RiddhiDapkosh/RiddhiDapkosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+🎓 3rd-year Computer Engineering student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in solving real-world problems using AI, Machine Learning.
+
+📊 Enjoy exploring new technologies, learning new skills, and building practical projects.
+
+🌱 Currently learning Data Science, AI, and  Machine Learning  
+
+🚀 Focused on becoming a job-ready Computer Engineer
+
+---
+
+## 🛠️ Tech Stack & Skills
+**Programming:** Python, C++, Java ,C 
+**Data Analysis:** Pandas, NumPy  
+**Visualization:** Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn (Logistic Regression, Random Forest, Decision Tree)  
+**Tools:** Google Colab, GitHub, VS Code  
+
+---
+
+## 🚀 Featured Project
+**AI-Based Student Skill Analyzer**  
+- Built a system to assess students’ skills and suggest improvements  
+- Performed data analysis and applied machine learning models  
+- Focused on helping students identify skill gaps for career readiness  
+
+---
+
+## 🎯 Goals
+- Become a skilled AI / Data Science Engineer  
+- Build innovative and practical projects  
+- Improve problem-solving and technical skills  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/riddhi-dapkosh-27427a312/) | [Email](riddhidapkosh@gmail.com)  
+
+---
+
+## Fun Fact
+I enjoy exploring new technologies and turning ideas into real-world solutions.  
+
+---
+
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
