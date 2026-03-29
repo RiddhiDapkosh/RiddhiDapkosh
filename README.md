@@ -13,11 +13,11 @@ Exploring Technology | Building AI & ML Projects | Computer Engineering Student
 ---
 
 ## 🛠️ Tech Stack & Skills
-**Programming:** Python, C++, Java ,C 
-**Data Analysis:** Pandas, NumPy  
-**Visualization:** Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn (Logistic Regression, Random Forest, Decision Tree)  
-**Tools:** Google Colab, GitHub, VS Code  
+- **Programming:** Python, C++, Java ,C 
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn 
+- **Tools:** Google Colab, GitHub, VS Code  
 
 ---
 
