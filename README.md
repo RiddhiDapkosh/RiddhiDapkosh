@@ -42,8 +42,8 @@ Exploring Technology | Building AI & ML Projects | Computer Engineering Student
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/riddhi-dapkosh-27427a312/)
-- [Email](riddhidapkosh@gmail.com)  
+- Linkdein: (https://www.linkedin.com/in/riddhi-dapkosh-27427a312/)
+- Email: (riddhidapkosh@gmail.com)  
 
 ---
 
