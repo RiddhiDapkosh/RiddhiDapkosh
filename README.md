@@ -53,4 +53,4 @@ I enjoy exploring new technologies and turning ideas into real-world solutions.
 ---
 
 ## 📊 GitHub Stats
-![RiddhiDapkosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiddhiDapkosh&show_icons=true&theme=radical)
+![RiddhiDapkosh's GitHub stars](https://github-readme-stats.vercel.app/api?username=RiddhiDapkosh&show_icons=true&theme=radical&include_all_commits=false&count_private=false&show=stars)
