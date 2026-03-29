@@ -4,15 +4,11 @@ Exploring Technology | Building AI & ML Projects | Computer Engineering Student
 ---
 
 ## 👨‍💻 About Me
-🎓 3rd-year Computer Engineering student.
-
-💡 Interested in solving real-world problems using AI, Machine Learning.
-
-📊 Enjoy exploring new technologies, learning new skills, and building practical projects.
-
-🌱 Currently learning Data Science, AI, and  Machine Learning  
-
-🚀 Focused on becoming a job-ready Computer Engineer
+- 🎓 3rd-year Computer Engineering student
+- 💡 Interested in solving real-world problems using AI and Machine Learning
+- 📊 Enjoy exploring new technologies, learning new skills, and building practical projects
+- 🌱 Currently learning Data Science, AI, and Machine Learning
+- 🚀 Focused on becoming a job-ready Computer Engineer
 
 ---
 
