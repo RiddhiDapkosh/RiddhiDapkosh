@@ -21,14 +21,6 @@ Exploring Technology | Building AI & ML Projects | Computer Engineering Student
 
 ---
 
-## 🚀 Featured Project
-**AI-Based Student Skill Analyzer**  
-- Built a system to assess students’ skills and suggest improvements  
-- Performed data analysis and applied machine learning models  
-- Focused on helping students identify skill gaps for career readiness  
-
----
-
 ## 🎯 Goals
 - Become a skilled AI ML Engineer  
 - Build innovative and practical projects  
